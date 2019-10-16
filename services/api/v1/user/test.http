@@ -1,0 +1,12 @@
+GET http://localhost:8080/api/v1/user/me HTTP/1.1
+Authorization: ____
+
+###
+
+POST http://localhost:8080/api/v1/user/fcm HTTP/1.1
+Authorization: ____
+Content-Type: application/json
+
+{
+    "fcmToken": "____"
+}

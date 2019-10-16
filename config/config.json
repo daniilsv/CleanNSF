@@ -1,0 +1,16 @@
+{
+  "development": {
+    "username": "cleannsfdev",
+    "password": "cleannsfdev",
+    "database": "cleannsfdev",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "cleannsf",
+    "password": "cleannsf",
+    "database": "cleannsf",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
