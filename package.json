@@ -18,7 +18,7 @@
     "fastify-redis": "^3.1.1",
     "fastify-sensible": "^2.1.1",
     "fastify-sequelize": "^1.0.4",
-    "fastify-static": "^2.5.0",
+    "fastify-static": "^4.2.4",
     "fastify-swagger": "^2.4.0",
     "fcm-notification": "^2.0.0",
     "moment": "^2.24.0",
