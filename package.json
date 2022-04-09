@@ -21,7 +21,7 @@
     "fastify-static": "^2.5.0",
     "fastify-swagger": "^2.4.0",
     "fcm-notification": "^2.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "node-geocoder": "^3.24.0",
     "pg": "^7.12.1",
     "pg-hstore": "^2.3.3",
